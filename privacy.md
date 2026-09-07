@@ -11,7 +11,7 @@ description: "White's Blog 隐私政策：了解本站如何收集、使用和�
 
 ### 信息收集
 
-本站（haloowhite.com）是一个静态博客网站，托管于 GitHub Pages。本站本身不主动收集、存储或处理任何个人身份信息。
+本站（haloowhite.com）是一个静态博客网站，托管于 Cloudflare Pages。本站本身不主动收集、存储或处理任何个人身份信息。
 
 ### 第三方服务
 
