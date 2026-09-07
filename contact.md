@@ -15,8 +15,8 @@ description: "联系 White — 技术讨论、项目合作、经验分享，欢�
 
 <ul>
 <li><strong>邮箱</strong>：<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-<li><strong>GitHub</strong>：<a href="https://github.com/{{ site.social.github }}">github.com/{{ site.social.github }}</a></li>
-<li><strong>LinkedIn</strong>：<a href="https://linkedin.com/in/{{ site.social.linkedin }}">linkedin.com/in/{{ site.social.linkedin }}</a></li>
+<li><strong>X (Twitter)</strong>：<a href="https://x.com/{{ site.social.twitter }}">x.com/{{ site.social.twitter }}</a></li>
+<li><strong>Telegram</strong>：<a href="https://t.me/{{ site.social.telegram }}">t.me/{{ site.social.telegram }}</a></li>
 </ul>
 
 <h3>我特别欢迎以下类型的交流</h3>

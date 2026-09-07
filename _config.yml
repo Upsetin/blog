@@ -8,7 +8,6 @@ baseurl: ""
 url: "https://haloowhite.com"
 lang: zh-CN
 twitter_username: holaawhite
-github_username: HalooWhite
 
 # Build settings
 markdown: kramdown
@@ -43,7 +42,6 @@ author_bio: "我很喜欢费曼，并且我也坚信最好的学习方式是通�
 
 # Social links
 social:
-  github: HalooWhite
   telegram: HalooWhite
   twitter: holaawhite
 
